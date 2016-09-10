@@ -397,3 +397,17 @@ img::-moz-selection {
     color: #fff;
     background: 0 0
 }
+
+.sponsor{
+    max-width:100%;
+    padding-top: 5%;
+    padding-bottom: 12%;
+}
+
+#sequoia{
+    padding-top: 8%;
+}
+
+#hackerrank{
+    padding-bottom: 0;
+}
